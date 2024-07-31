@@ -26,20 +26,11 @@
       }
 
     #navigation {
-        position: fixed;
-        top: 0;
-        right: -600px;
     
         width: 400px;
         height: 100vh;
-       
-    
-        display: flex;
-        flex-direction: column;
-        row-gap: 48px;
     
         padding: 72px 30px 0;
-        transition: 0.4s;
     }
 
 }
@@ -72,20 +63,10 @@
       }
 
     #navigation {
-        position: fixed;
-        top: 0;
-        right: -600px;
-    
         width: 380px;
         height: 100vh;
-       
-    
-        display: flex;
-        flex-direction: column;
-        row-gap: 48px;
     
         padding: 72px 10px 0;
-        transition: 0.4s;
     }
     
 }
